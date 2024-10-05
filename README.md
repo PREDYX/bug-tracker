@@ -9,3 +9,10 @@ As a precaution, we are temporarily disabling new sign-ups with credentials (use
 Please note, users who signed up using **Lightning Wallet** or **Google** are not affected by this.
 
 We appreciate your understanding and patience as we resolve this.
+
+======
+
+### **Predyx App Bug & Issue Reporting Hub**
+
+**Description:**  
+Welcome to the Predyx App Bug & Issue Reporting Hub! Here, you can report any technical glitches, bugs, or unexpected issues you encounter while using the app. Our team actively monitors this space to ensure swift resolution and continuous improvement. Your feedback helps us make Predyx a more reliable and seamless experience. Thank you for helping us enhance the platform!
